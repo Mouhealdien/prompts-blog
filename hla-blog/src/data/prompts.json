@@ -1,0 +1,40 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Rural render ultra-realistic ",
+      "content": "Ultra-realistic architectural rendering of the attached building facade, keeping  all proportions, shapes, and design details exactly as in the original image. Style: contemporary adobe / desert modernism. Material: smooth beige stucco with subtle natural texture variations, warm earthy undertones, and realistic weathering. Lighting: bright, soft natural daylight from a high afternoon sun, creating gentle shadows and highlights on the surface. Environment: clear blue sky with faint wispy clouds, minimal background elements. Camera: eye-level perspective, slightly wide lens (35mm), straight-on composition, balanced framing, and sharp focus from foreground to background. Photorealistic quality, cinematic depth, accurate perspective lines, and no distortion. Maintain original window dimensions, placement, and mullion design exactly",
+      "image": "https://imglink.io/i/251ac29e-6b4e-43db-a512-25a96aa06729.png"
+    },
+    {
+      "id": 2,
+      "title": "vintage postage stamp",
+      "content": "Create a minimalistic architectural poster in the style of a vintage postage stamp. Use a portrait photo of this building [insert image] and place it inside a stamp-shaped frame with a distinct color tone, such as [COLOR]. Inside the stamp, subtly overlay elegant text related to architecture, like “[Form Follows Function]”. The background should be a lightly textured white or gray canvas paper to evoke a refined, tactile aesthetic. Overlay a round postal stamp partially overlapping the photo, containing the words “ARCHITECTURE EXHIBIT” or “PROJECT NAME” for a conceptual twist. Above the stamp, include the phrase “TEXT HERE” in a clean serif or typewriter font. Add a handwritten-style signature reading “[YOUR NAME]” near the bottom left of the design. The overall composition should feel clean, balanced, and timeless—fusing vintage postal elements with modern architectural elegance",
+      "image": "https://imglink.io/i/bc5e8333-8f19-4072-b2a0-6ca95efcb560.png"
+    },
+    {
+      "id": 3,
+      "title": "3D hand-drawn conceptual section",
+      "content": "Convert a 2D architectural section into a 3D hand-drawn sketch using black ink on white paper, in the style of loose architectural concept drawings.Perspective Type: [Insert perspective type here – e.g., isometric, free perspective, two-point, etc.] Project Type: [Insert project type here – e.g., library, museum, residential building, school, etc.] Use freehand expressive lines, hatching, and pen strokes to suggest depth, structure, and materiality. Indicate air and movement directions with arrows. Add human figures for scale and sketchy trees/landscape elements for context.Optional: Add ink wash or light solid fill to selected areas (e.g., underground zones, shadows, vegetation) to enhance spatial reading, while keeping the drawing conceptual and schematic",
+      "image": "https://imglink.io/i/097396ac-d303-40d0-a649-6d9e58c4e48a.png"
+    },
+    {
+      "id": 4,
+      "title": " illustration isometric rendering",
+      "content": "Transform this architectural image into an illustration isometric architectural rendering style with soft colorful pastel colors. Use white flat roofs, subtle shadows, and minimal textures. Add details on building. Add small human figures, motorbikes, rickshaws, and street elements for scale and liveliness. Show light electrical wires, sparse trees with orange foliage, and a soft ambient light that mimics a calm winter morning. Ensure the rendering has a clean, paper-model-like aesthetic with simplified context buildings in white or light grey. Maintain the original scene details, angles, and composition exactly as in the input, preserving all proportions and massing of the building.",
+      "image": "https://imglink.io/i/a10711c5-c907-4086-80ab-ed0864291b59.png"
+    },
+    {
+      "id": 5,
+      "title": "architectural hand sketch style",
+      "content": "Generate this Interior design scene, to architectural hand sketch style, perspective drawing, freehand lines, dynamic pencil strokes, technical annotations, handwritten notes, soft gray shadows, minimal watercolor effect, artistic architectural sketch, clean white background, keep original colors and materials from the reference image",
+      "image": "https://imglink.io/i/39183a83-9bf8-43a0-b2ac-c3ef0e032ffe.png"
+    },
+    {
+      "id": 6,
+      "title": "Architectural visualization style",
+      "content": "Generate this Interior design scene, to architectural hand sketch style, perspective drawing, freehand lines, dynamic pencil strokes, technical annotations, handwritten notes, soft gray shadows, minimal watercolor effect, artistic architectural sketch, clean white background, keep original colors and materials from the reference image",
+      "image": "https://imglink.io/i/803384cb-48be-4f9f-b32b-ac681f2318f4.png"
+    }
+  ]
+}
