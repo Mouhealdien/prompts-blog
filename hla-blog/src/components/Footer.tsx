@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
+    <div className="pt-4">
       <div className="flex flex-row justify-end gap-3">
         <a href="https://www.linkedin.com/in/hla-nadeem-30463a266">
           <div className="bg-[#8f8e89] w-fit p-3 rounded-full">
